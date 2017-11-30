@@ -1,0 +1,33 @@
+{
+  "name": "twurlshortner",
+  "version": "0.0.1",
+  "description": "every assignment covers the same basic setup   Body-Parser, Cors, Express & Nodemon.   I've added favicon.ico in the public directory   along with HTML5 boilerplate & BootStrap4 in index.html,   the Procfile for deployment to Heroku   & .gitignore excludes node-modules   [expressTemplate](https://stark-spire-40922.herokuapp.com/ \"Live on Heroku\")",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    
+    "serve-favicon": "^2.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtleWolf/urlShortner.git"
+  },
+  "keywords": [
+    "Url-Shortner",
+    "FreeCodeCamp.com"
+  ],
+  "author": "TurtleWolf.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurtleWolf/urlShortner/issues"
+  },
+  "homepage": "https://github.com/TurtleWolf/urlShortner#readme"
+}
