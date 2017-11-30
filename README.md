@@ -30,4 +30,4 @@ git push heroku master
 [Deploying with Git](https://devcenter.heroku.com/articles/git/ "Heroku")  
 
 
-[CodingTutorials360, 8:00](https://youtu.be/5T1YDRWaa3k?t=8m "URL Shortner Microservice Part 1")
+[CodingTutorials360, 11:00](https://youtu.be/5T1YDRWaa3k?t=11m "URL Shortner Microservice Part 1")
