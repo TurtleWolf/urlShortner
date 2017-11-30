@@ -1,5 +1,5 @@
 every assignment covers the same basic setup  
-Body-Parser, Cors, Express & Nodemon.  
+Body-Parser, Cors & Express.  
 I've added favicon.ico in the public directory  
 along with HTML5 boilerplate & BootStrap4 in index.html,  
 the Procfile for deployment to Heroku  
@@ -10,7 +10,6 @@ the Procfile for deployment to Heroku
 "body-parser": "^1.18.2",  
 "cors": "^2.8.4",  
 "express": "^4.16.2",  
-"nodemon": "^1.12.1",  
 "serve-favicon": "^2.4.5"  
 },  
 
